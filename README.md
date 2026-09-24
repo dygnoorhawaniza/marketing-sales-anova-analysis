@@ -131,16 +131,13 @@ marketing-sales-anova-analysis/
 ├── notebooks/
 │   └── hypothesis_testing_with_python.py
 ├── reports/
-│   └── figures/
 │       ├── analysis_workflow.png
 │       └── tukey_mean_differences.png
 ├── src/
 │   └── anova_analysis.py
 ├── .github/
-│   └── workflows/
 │       └── python-check.yml
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
