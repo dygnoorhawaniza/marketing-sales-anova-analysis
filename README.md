@@ -71,9 +71,7 @@ Tukey HSD
 Stakeholder interpretation
 ```
 
-![Analysis workflow](analysis_workflow.png)
-
-![Tukey HSD Results](tukey_mean_differences.png)
+![Analysis workflow](reports/analysis_workflow.png)
 
 ## Key Findings Reported in the Supplied Analysis
 
@@ -111,7 +109,7 @@ The supplied analysis reports statistically significant differences for every pa
 | High vs Medium | $101.51M | $93.69M – $109.32M |
 | Medium vs Low | $107.31M | $99.71M – $114.91M |
 
-![Tukey HSD differences](reports/figures/tukey_mean_differences.png)
+![Tukey HSD differences](reports/tukey_mean_differences.png)
 
 ## Model Diagnostics
 
