@@ -71,7 +71,9 @@ Tukey HSD
 Stakeholder interpretation
 ```
 
-![Analysis workflow](reports/figures/analysis_workflow.png)
+![Analysis workflow](analysis_workflow.png)
+
+![Tukey HSD Results](tukey_mean_differences.png)
 
 ## Key Findings Reported in the Supplied Analysis
 
